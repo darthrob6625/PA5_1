@@ -16,5 +16,6 @@ In hindsight, I should have converted many of the string encoded variables, for 
 - Of those who accepted the coupon, 1,992 individuals, representing 28%, were either students or unemployed. These were two of the largest occupation categories among recipients, both considered not currently working.
 - The coffee house category was the largest group of individuals who were offered a coupon.
 - In regards to temperature, the warmer the temperature, the greater the chance of being offered and accepting a coupon. 
-- E
-- F 
+- All income groups accepted the coupon, with the highest redemption values observed among groups earning $50K and under.
+
+### See assignment for data specifics and visual representation
