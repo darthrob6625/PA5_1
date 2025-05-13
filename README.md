@@ -18,4 +18,4 @@ In hindsight, I should have converted many of the string encoded variables, for 
 - In regards to temperature, the warmer the temperature, the greater the chance of being offered and accepting a coupon. 
 - All income groups accepted the coupon, with the highest redemption values observed among groups earning $50K and under.
 
-### See assignment for data specifics and visual representation
+*See assignment for data specifics and visual representation*
