@@ -15,6 +15,6 @@ In hindsight, I should have converted many of the string encoded variables, for 
 - Of the 7,210 individuals who accepted the coupon, the largest age group was those aged 21–31, accounting for 4,226 individuals, or 59%.
 - Of those who accepted the coupon, 1,992 individuals, representing 28%, were either students or unemployed. These were two of the largest occupation categories among recipients, both considered not currently working.
 - The coffee house category was the largest group of individuals who were offered a coupon.
-- D
+- In regards to temperature, the warmer the temperature, the greater the chance of being offered and accepting a coupon. 
 - E
 - F 
