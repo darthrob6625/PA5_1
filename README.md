@@ -12,9 +12,9 @@ Upon initial inspection, the car specification column contained predominantly mi
 In hindsight, I should have converted many of the string encoded variables, for example, age categories, into integer or numeric formats. Doing so would have made the numerical analysis and visualization more straightforward. If time allows, I plan to revisit this assignment and reformat the data before proceeding with the analysis.
 
 ### Findings
-- Of the 7,210 individuals who accepted the coupon, the largest age group was those aged 21–31, accounting for 4,226 individuals, or 59%
+- Of the 7,210 individuals who accepted the coupon, the largest age group was those aged 21–31, accounting for 4,226 individuals, or 59%.
 - Of those who accepted the coupon, 1,992 individuals, representing 28%, were either students or unemployed. These were two of the largest occupation categories among recipients, both considered not currently working.
-- C
+- The coffee house category was the largest group of individuals who were offered a coupon.
 - D
 - E
 - F 
